@@ -1,0 +1,407 @@
+/* font-family: 'Source Sans Pro', sans-serif;  --> 400 600 700 900
+font-family: 'Droid Serif', serif;   400*/
+
+ul {
+    list-style-type: none;
+}
+
+
+
+/* -------header and nav------- */
+
+nav {
+    background-color: #acd373;
+}
+
+nav ul a {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+    color: #f7f7f7;
+    text-decoration: none;
+}
+
+header div {
+    background-color: #9abd67;
+}
+
+header h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 900;
+    font-size: 48px;
+    color: #f7f7f7;
+}
+
+header h2 {
+    font-family: 'Droid Serif', serif;
+    font-style: italic;
+    font-size: 24px;
+    font-weight: 400;
+    color: #f7f7f7;
+}
+
+
+
+
+/* -------who we are section------- */
+
+.who {
+    background-color: #f7f7f7;
+}
+
+.who h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: #454545;
+}
+
+.who p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #454545;  
+}
+
+.who a {
+    font-family: 'Droid Serif', serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    color: #acd373;
+    text-decoration: none;
+}
+
+
+
+/* -------our services------- */
+
+.services {
+    background-color: #f7f7f7;
+}
+
+.services h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: #454545;
+}
+
+.services h3 span {
+    color: #acd373;
+}
+
+.services h4 {
+    font-family: 'Droid Serif', serif;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: none;
+    color: #454545;
+}
+
+.services h5 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #acd373;
+}
+
+.services p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #454545;  
+}
+
+.services a {
+    font-family: 'Droid Serif', serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    color: #acd373;
+    text-decoration: none;
+}
+
+/* ------- meet the team ------- */
+
+/*backgrounds*/
+.meet {
+    background-color: #acd373;
+}
+
+.meet ul div:nth-of-type(1) {
+    background-color: #f7f7f7;
+}
+
+.meet ul div:nth-of-type(2) {
+    background-color: #ebebeb;
+}
+
+.meet ul + div {
+    background-color: #9abd67;
+}
+
+/*fonts*/
+.meet h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: #f7f7f7;
+}
+
+ .meet h4 {
+    font-family: 'Droid Serif', serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #f7f7f7;
+    
+}
+
+ .meet h5 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #acd373;
+}
+
+.meet ul p {
+    font-family: 'Droid Serif', serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    color: #787878;
+}
+
+.meet p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #f7f7f7;
+}
+
+.meet a {
+    font-family: 'Droid Serif', serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    color: #f7f7f7;
+    text-decoration: none;
+}
+
+/* ------- recent works ------- */
+
+/*backgrounds*/
+
+.works {
+    background-color: #f7f7f7;
+}
+
+.works ul div {
+    background-color: #ebebeb;
+}
+
+.works  div {
+    background-color: #ebebeb;
+}
+
+/*fonts*/
+
+.works h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: #454545;
+}
+
+.services h3 span {
+    color: #acd373;
+} 
+
+
+.works h4 {
+    font-family: 'Droid Serif', serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #454545;
+}
+
+.works h5 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #454545;
+
+}
+
+.works p {
+    font-family: 'Droid Serif', serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    color: #787878;
+
+}
+
+.works a {
+    font-family: 'Droid Serif', serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    color: #acd373;
+    text-decoration: none;
+}
+
+/* ------- testimonials ------- */
+
+/*backgrounds*/
+
+/*  fonts  */
+
+.testi h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: #f7f7f7;
+}
+
+.testi p {
+    font-family: 'Droid Serif', serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    color: #f7f7f7;
+}
+
+.testi blockquote {
+    font-family: 'Droid Serif', serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    color: #f7f7f7;
+    text-decoration: none;
+}
+
+.testi h4 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #acd373;
+}
+
+.test h4 > p {
+    font-family: 'Droid Serif', serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    color: #f7f7f7;
+}
+
+.testi a {
+    font-family: 'Droid Serif', serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    color: #f7f7f7;
+    text-decoration: none;
+}
+
+
+
+/* ------- blog ------- */
+
+/* backgrounds */
+
+.blog {
+    background-color: #f7f7f7;
+}
+
+.blog ul div {
+    background-color: #ebebeb;
+}
+
+.blog ul div div {
+    background-color: #acd373;
+}
+
+/*  fonts */
+
+.blog h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: #454545;    
+}
+
+.blog h4 {
+    font-family: 'Droid Serif', serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    color: #454545;
+}
+
+.blog p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    color: #454545;    
+}
+
+.blog a { 
+    font-family: 'Droid Serif', serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    color: #f7f7f7;
+    text-decoration: none;
+}
+   
+
+
+/* ------- contacts ------- */
+
+/* backgrounds */
+
+.contact {
+    background-color: #acd373;
+}
+
+/* fonts */
+
+.contact h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: #f7f7f7;    
+}
+
+.contact p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #f7f7f7;
+}
+
+.contact input {
+    font-family: 'Droid Serif', serif;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 400;
+    color: #f7f7f7;
+}
+
+
+
+
+/* ------- footer ------- */
+
+footer {
+    background-color: #9abd67;
+}
+
+footer p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #f7f7f7;
+}

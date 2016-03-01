@@ -1,0 +1,656 @@
+﻿Area backgrounds
+
+
+
+Light = f7f7f7
+
+Light green = acd373
+
+
+
+#########################################
+
+
+HEADER
+
+
+
+nav bar background color = #acd373 (light green)
+
+nav bar shadow =
+ 
+	blend mode = multiply
+
+	color = 000000
+
+	opactity = 6
+
+	angle = 120
+
+	dist = 5
+	
+	spread = 0
+
+	size = 5
+
+
+
+nav bar text=
+
+	font = source sans pro black
+
+	font size = 18 px
+	
+	font color = #f7f7f7
+
+
+
+main area large text=
+
+	font = source sans pro black
+
+	font size = 48 px
+	
+	font color = #f7f7f7
+
+
+
+main area small font=
+
+	font = droid serif italic
+
+	font size = 24p px
+
+	font color = #f7f7f7
+
+
+
+main area background color = #9abd67 (dark green)
+
+
+
+Images
+	
+logo.png
+	
+cityscape.png
+	
+header-down-arrow.png
+
+
+
+
+##########################################
+
+
+
+WHO WE ARE
+
+
+
+Area background color = #f7f7f7
+
+
+
+Subhead Lv 1 grey =
+
+	font= source sans pro regular
+
+	font size = 30 px
+	
+	font color = 454545 (grey)
+
+
+
+Body text grey =
+
+	font= source sans pro regular
+
+	font size = 18 px
+
+	font color = 454545
+
+
+
+Learn more text=
+
+	font= droid serif italic
+
+	font size = 18 px
+
+	font color = acd373
+
+
+
+Box link/button =
+
+	thickness =  1 px
+
+	ht = 40 px
+
+
+
+Images
+	
+man-icon.png
+	
+smartphone.png
+	
+video-play.jpg or play.png + group-pic.jpg
+
+
+
+##########################################
+
+
+
+OUR SERVICES
+
+
+
+Area background color = #f7f7f7
+
+
+
+“OUR” = Subhead Lv 1 grey
+
+
+“SERVICES” = Subhead Lv 1 green (acd373)
+
+
+
+
+Quote grey =
+
+	font= droid serif regular
+
+	font size = 18 px
+
+	font color = 454545
+
+S
+
+ubhead Lv 2 green =
+
+	font= source sans pro bold
+
+	font size = 20 px
+
+	font color = acd373
+
+
+
+Body text grey
+
+
+
+Box link/button
+
+
+
+Images	
+	
+divider-elipse-grey.png
+	
+paintbrush-icon.png
+	
+graph-easle-icon.png
+	
+mobile-icon.png
+	
+game-controller-icon.png
+	
+monitor-icon.png
+	
+heart-icon.png
+	
+	
+
+##########################################
+
+
+
+MEET THE TEAM
+
+
+
+Area background color = acd373 (lt green)
+
+Bottom bar color = 9abd67 (dark green)
+
+Light box color = f7f7f7
+
+Grey box bottom = ebebeb
+
+
+
+Subhead Lv 1 light (f7f7f7)
+
+
+
+Quote light (f7f7f7)
+
+
+
+Names = Subhead Lv 2 green
+
+
+
+Job title = 
+
+	font= droid serif italics
+
+	font size = 16 px
+
+	font color = 454545
+
+
+
+“Are you the next..”
+
+	font = Source Sans Pro Regular
+	
+	font size = 18 px
+ 
+	font color = f7f7f7
+
+
+
+Box link/button light (f7f7f7)
+
+
+
+Images
+	
+divider-elipse-light.png
+	
+social-media.png
+	
+profile-pic-1.png
+	
+profile-pic-2.png
+	
+profile-pic-3.png
+	
+profile-pic-4.png
+
+
+
+
+
+##########################################
+
+
+
+RECENT WORK
+
+
+
+Background area color = f7f7f7
+
+Bottom bar background color = ebebeb
+
+
+
+Subhead Lv 1 grey and green
+
+
+
+Quote grey
+
+
+
+Names
+
+	font= source sans pro bold
+
+	font size = 18 px
+
+	font color = 454545
+
+
+
+Title under names
+
+	font = droid serif italics
+
+	font size = 16 px
+
+	font color =  787878
+
+
+
+Box link/button green
+
+
+Images
+	
+divider-elipse-grey.png
+	
+envato-icon.png
+	
+themeforest-icon.png
+	
+activeden-icon.png
+	
+3docean-icon.png
+	
+audiojungle-icon.png
+	
+codecanyon-icon.png
+
+	
+chuck.jpg
+	seo-pic.jpg
+	
+letoy.jpg
+	screenr.jpg
+	
+koki.jpg
+	
+
+
+
+############################################
+
+
+
+TESTIMONIALS
+
+
+
+Subhead Lv 1 light
+
+
+Body text light (f7f7f7)
+
+
+
+"Give testimonials"
+ =  Box link/button green
+
+
+
+Quote in bubble
+
+	font = droidserif regular
+
+	font size = 16 px
+
+	font color = f7f7f7
+
+
+
+Name of person
+
+	font = source sans pro bold
+
+	font size = 18 px
+
+	font color = acd373
+
+
+
+Under name of person
+
+	font = droid serif italic
+
+	font size = 18 px
+
+	font color = f7f7f7
+
+
+
+Images
+	
+table-w-book.jpg
+	
+john-doe.png
+	
+john-doe-2.png
+
+
+
+
+############################################
+
+
+
+BLOG
+
+
+
+Area background = f7f7f7
+
+Box color = ebebeb
+
+
+
+Subhead Lv 1 grey
+
+
+
+Quote grey
+
+
+
+Text in box
+
+	font = source sans pro semibold
+
+	font size = 18.35 px
+
+	font color = 454545
+	
+
+
+
+Read more text
+
+	font= droid serif regular
+
+	font size = 14 px
+
+	font color = f7f7f7
+
+
+
+Images
+	
+earth-icon.png
+	
+mobile-icon-white.png
+	
+monitor-icon-white.png
+	
+bar-graphi-icon-white.png
+
+	
+blog-pic-1.jpg
+	
+blog-pic-2.jpg
+	
+blog-pic-3.jpg
+	
+blog-pic-4.jpg
+	
+
+	
+
+
+############################################
+
+
+
+MAP SECTION
+
+
+
+"Join our team..."
+
+	font = source sans pro regular
+
+	font size = 18 px
+
+	font color = f7f7f7
+
+
+
+Email
+
+	font = droid serif italic
+
+	font size = 14 px
+
+	font color = f7f7f7
+
+
+
+Email box
+	thickness = 1px
+
+	height = 41 px 
+
+
+
+Map height = 498
+
+
+
+Images
+	
+email-button.jpg
+	
+
+
+
+############################################
+
+
+
+CONTACT
+
+
+
+background = acd373
+
+answer box = 9abd67
+
+answer box width =570
+
+
+
+Subhead Lv 1 light
+
+
+
+Questions
+	
+	font = source sans pro regular
+
+	font size = 18 px
+
+	font color = f7f7f7
+
+
+
+Answers
+
+	font = droid serif italic
+
+	font size = 15 px
+
+	font color = f7f7f7
+
+
+
+Send button
+
+	font = droid serif italic
+
+	font size = 18 px
+
+	font color = f7f7f7
+
+	box dimensions =  110 x 40 px
+
+Images
+
+	divider-elipse-light.png
+
+
+
+
+############################################
+
+
+
+FOOTER
+
+
+
+Background color = 9abd67
+
+Height = 99 pxz
+
+
+
+Copyright
+
+	font = Source Sans Pro Regular
+
+
+	font size = 18 px 	
+	font color = f7f7f7
+
+Images
+
+fb-icon-white.png
+
+tw-icon-white.png
+
+basketball-icon-white.png
+
+gshape-icon-white.png
+
+behance-icon-white.png
+
+instagram-icon-white.png
+
+youtube-icon-white.png
+
+linkedin-icon-white.png
+
+allsocial-icon-white.png
+
+
+
+############################################
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
